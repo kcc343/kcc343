@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 My name is Kelly and I'm a University of Washington-Bothell student I have been coding since middle school, starting with HTML.
 - 🔭 I’m currently working on [Fullstackopen Exercises](https://github.com/kcc343/kcc343-FullStackExercises)
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS (communicating with the server) and pull requests.
 - 😄 Pronouns: she/her
+- ⚡ Proficient in Java, C++, JavaScript, R, HTML, CSS
